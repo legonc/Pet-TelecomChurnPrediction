@@ -9,7 +9,9 @@ description = "Data Science проект"
 readme = "README.md"
 requires-python = ">=3.11.9"
 dependencies = [
+    "catboost>=1.2.8",
     "jupyterlab>=4.4.10",
+    "lightgbm>=4.6.0",
     "matplotlib>=3.10.7",
     "notebook>=7.4.7",
     "numpy>=2.3.4",
@@ -18,6 +20,8 @@ dependencies = [
     "scikit-learn>=1.7.2",
     "scipy>=1.16.3",
     "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.44",
     "uv>=0.9.7",
+    "xgboost>=3.1.1",
 ]
 
