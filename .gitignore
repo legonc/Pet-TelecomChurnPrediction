@@ -17,5 +17,6 @@ __pycache__/
 Thumbs.db
 
 data
-ds-plus-final.db
+telecom.db
 catboost_info
+.idea/
